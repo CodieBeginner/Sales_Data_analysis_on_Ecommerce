@@ -1,4 +1,4 @@
-GEOSPATIAL ANALYSIS on Zomato using EDA
+SALES_DATA_ANALYSIS_on_Ecommerce using EDA
 Q1. Read ftr data.
 Q2. Analyze monthly sales.
 Q3. Which city has the maximum order?
